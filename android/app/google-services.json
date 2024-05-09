@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213864448179",
+    "project_id": "sisbektar-42b21",
+    "storage_bucket": "sisbektar-42b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213864448179:android:ce71f06425e88f2069b0c6",
+        "android_client_info": {
+          "package_name": "com.example.sibektar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxGBewJSlU-fw0CL60xfbqfxmMtbmy2-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
